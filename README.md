@@ -1,3 +1,3 @@
 # Test
-A simple repository for testing GitHub functionnalities
-This is the first addition done to the file
+A simple repository for testing GitHub functionnalities.
+It's really great ...
